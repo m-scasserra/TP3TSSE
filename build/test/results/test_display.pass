@@ -1,0 +1,34 @@
+---
+:source:
+  :path: test
+  :file: test_display.c
+:successes:
+- :test: test_todos_registros_configuradors_correctamente
+  :line: 19
+  :message: ''
+  :unity_test_time: 0
+- :test: test_prender_y_mostrar_un_numero
+  :line: 35
+  :message: ''
+  :unity_test_time: 0
+- :test: test_encender_display3_apagar_display3_encender_display4
+  :line: 45
+  :message: ''
+  :unity_test_time: 0
+- :test: test_encender_digito1_pasar_a_digito8
+  :line: 59
+  :message: ''
+  :unity_test_time: 0
+- :test: test_mostrar_diferentes_en_todos_los_segmentos
+  :line: 72
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 5
+  :passed: 5
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.0028148960000180523
